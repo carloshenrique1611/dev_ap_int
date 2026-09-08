@@ -8,7 +8,7 @@
 - Practice Test for Written Exams (ENADE Style): https://abre.ai/devapint-enade-style
 - Practice Test: https://share.gemini.google/xhf1JgXoVpcS
 - Immersion Podcasts: [IA_Podcasts_Prof_ClovesRocha](https://abre.ai/immersionpodcasts)
-# 🌐 INFOGRÁFICO: Desenvolvimento de Aplicações para Internet
+
 # 🗺️ Roadmap de Aprendizagem Etapa Foco da Fase Tecnologias
 * Competências Desenvolvidas
 1. Estrutura e EstiloFront-end Estático.
